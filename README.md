@@ -315,6 +315,8 @@ socket.on("message", (msg) => console.log("New message:", msg));
 
 MIT — free to use, modify, and distribute.
 
+**But with prior information and permission from the Repo Owner.**
+
 ---
 
 **Built with ❤️ for modern education.**
